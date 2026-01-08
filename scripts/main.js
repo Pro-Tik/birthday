@@ -7,7 +7,7 @@ window.addEventListener('load', () => {
         "assets/images/photo_1_2026-01-06_22-54-35.jpg",
         "assets/images/photo_2_2026-01-06_22-54-35.jpg",
         "assets/images/photo_3_2026-01-06_22-54-35.jpg",
-        "assets/images/photo_4_2026-01-06_22-54-35.jpg",
+        
         "assets/images/photo_5_2026-01-06_22-54-35.jpg",
         "assets/images/photo_6_2026-01-06_22-54-35.jpg",
         "assets/images/photo_7_2026-01-06_22-54-35.jpg"
